@@ -25,6 +25,8 @@ or
 
 <br>
 
+// convert 20 pounds to Philippine peso
+
 `konvert('GBP', 'PHP', 20)`
 
 &nbsp;&nbsp;&nbsp;`.then(amount => console.log(amount));`
@@ -35,6 +37,8 @@ or
 ##### Getting all supported countries for the target-currency
 
 <br>
+
+// get all countries that support pounds
 
 `konvertCountries('GBP')`
 
