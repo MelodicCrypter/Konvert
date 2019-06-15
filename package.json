@@ -1,6 +1,6 @@
 {
   "name": "konvert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool for fetching latest currency conversion.",
   "main": "lib/index.js",
   "author": "Melodic Crypter",

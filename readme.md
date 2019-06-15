@@ -1,5 +1,5 @@
 ## Konvert 
-&nbsp;
+![NPM](https://img.shields.io/npm/l/konvert.svg) &nbsp; ![npm](https://img.shields.io/npm/v/konvert.svg)
 
 Konvert is a node module for fetching latest currency conversion. It can also get which countries the user can spend the target-currency.
     
