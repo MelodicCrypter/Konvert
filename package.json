@@ -1,7 +1,7 @@
 {
   "name": "konvert",
   "version": "1.0.0",
-  "description": "A tool for fetching latest currency conversion. Supports async and non-async.",
+  "description": "A tool for fetching latest currency conversion.",
   "main": "lib/index.js",
   "author": "Melodic Crypter",
   "license": "MIT",
