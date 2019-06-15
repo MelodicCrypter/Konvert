@@ -1,0 +1,16 @@
+{
+  "name": "konvert",
+  "version": "1.0.0",
+  "description": "A tool for fetching latest currency conversion. Supports async and non-async.",
+  "main": "lib/index.js",
+  "author": "Melodic Crypter",
+  "license": "MIT",
+  "keywords": [
+    "currency",
+    "convert",
+    "konvert"
+  ],
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
